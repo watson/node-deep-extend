@@ -1,5 +1,5 @@
 var should = require('should');
-var extend = require('../index');
+var extend = require('../index')();
 
 describe('deep-extend', function() {
 
